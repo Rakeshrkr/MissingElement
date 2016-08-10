@@ -7,7 +7,7 @@ public class MissingInt {
 		for(int i=0 ; i< array.length ; i++){
 			array_sum +=  array[i] ; // summing the elements of the array
 		}
-			int real_sum = 10*11/2 ;
+			int real_sum = 10*11/2 ; // Real sum of the array 
 			int missing_int = real_sum - array_sum ;
 			
 			System.out.println("Missing integer in the given array of length 10 is : " + missing_int);
