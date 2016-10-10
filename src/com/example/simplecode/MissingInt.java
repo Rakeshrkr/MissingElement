@@ -12,7 +12,10 @@ public class MissingInt {
 			
 			System.out.println("Missing integer in the given array of length 10 is : " + missing_int);
 			System.out.println("Missing integer in the given array of length 10 is : " + missing_int);
-System.out.println("Missing integer in the given array of length 10 is : " + missing_int);
+			System.out.println("Missing integer in the given array of length 10 is : " + missing_int);
+			System.out.println("Missing integer in the given array of length 10 is : " + missing_int);
+			System.out.println("Missing integer in the given array of length 10 is : " + missing_int);
+			System.out.println("Missing integer in the given array of length 10 is : " + missing_int);
 			
 	
 	}
